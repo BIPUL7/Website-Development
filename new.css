@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.New img{
+    height:715px;
+}
+
+
+.text,img{
+    background-color: rgb(162, 62, 62);
+    height: 715px;
+    width: 50%;
+    float: right;
+}
+.text{
+    text-align: left;
+}
+h1{
+    font-weight: bold;
+    font-size: 400%;
+    padding-left: 50px;
+    color: bisque;
+}
+h2{
+    font-weight: bold;
+    font-size: 400%;
+    padding-top: 5px;
+    padding-left: 50px;
+    color: bisque;
+}
+h3{
+    font-weight: bold;
+    font-size:200% ;
+    padding-left: 50px;
+    padding-top: 3px;
+    color: bisque;
+}
+h4{
+    font-weight: bold;
+    font: size 120px; ;
+    padding-left: 50px;
+    padding-top: 150px;
+    color: blanchedalmond;
+}
+h5{
+    font-weight: bold;
+    font: size 120px; ;
+    padding-left:50px;
+    color: blanchedalmond;
+
+    
+}
+
+.button {
+    padding-top: 50px;
+    padding-left:50px;
+  }
+  
+  .button a{
+    display: inline-flex;
+    padding: 7.5px 10px;
+    background: rgb(255, 128, 0);
+    border-radius: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 800;
+    transition: all 0.5s ease;
+   
+   
+  }
+  
+  .button a:hover{
+    background: black;
+    color: orange;
+  }
